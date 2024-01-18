@@ -1,8 +1,8 @@
-#### Sea Level Predictor
+# Sea Level Predictor
 
 You will analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through the year 2050.
 
-# Use the data to complete the following tasks:
+## Use the data to complete the following tasks:
 
 Use Pandas to import the data from epa-sea-level.csv.
 Use Matplotlib to create a scatter plot using the Year column as the x-axis and the CSIRO Adjusted Sea Level column as the y-axis.
@@ -13,8 +13,8 @@ Unit tests are written for you under test_module.py.
 
 The boilerplate also includes commands to save and return the image.
 
-# Development
+## Development
 For development, you can use main.py to test your functions. 
 
-# Testing
+## Testing
 We imported the tests from test_module.py to main.py for your convenience. 
